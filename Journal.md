@@ -8,7 +8,7 @@
 ### October 1, 2024
 [Link](https://github.com/LinhTran263/performingrobots/blob/main/journal.md#1-october-2024)
 
-## Question to Tuesday Oct 1 presentations:
+#### Question to Tuesday Oct 1 presentations:
 
 (Linh) What's the parameter to distinguish between the need for theater performance with real-human actors and the need for theater performance with human-lookalike robots besides the purpose of storytelling and functions of the performers?
 
