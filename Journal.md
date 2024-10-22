@@ -16,3 +16,8 @@
 
 ### October 22, 2024
 [Link](https://github.com/LinhTran263/performingrobots/edit/main/journal.md#22-october-2024)
+
+### October 24, 2024
+#### Robot design sketch
+[Link](https://github.com/LinhTran263/performingrobots/blob/main/journal.md#24-october-2024)
+
