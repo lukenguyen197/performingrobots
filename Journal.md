@@ -29,3 +29,9 @@
 
 ### November 12, 2024
 [Link](https://github.com/LinhTran263/performingrobots/blob/main/journal.md#12-november-2024)
+
+### November 19, 2024
+[Link](https://github.com/LinhTran263/performingrobots/blob/main/journal.md#19-november-2024)
+
+### November 26, 2024
+[Link](https://github.com/LinhTran263/performingrobots/blob/main/journal.md#26-november-2024)
